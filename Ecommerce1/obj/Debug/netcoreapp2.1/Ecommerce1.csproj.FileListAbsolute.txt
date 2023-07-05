@@ -1,0 +1,14 @@
+C:\Users\1000070994\source\repos\Ecommerce1\Ecommerce1\bin\Debug\netcoreapp2.1\Ecommerce1.deps.json
+C:\Users\1000070994\source\repos\Ecommerce1\Ecommerce1\bin\Debug\netcoreapp2.1\Ecommerce1.runtimeconfig.json
+C:\Users\1000070994\source\repos\Ecommerce1\Ecommerce1\bin\Debug\netcoreapp2.1\Ecommerce1.runtimeconfig.dev.json
+C:\Users\1000070994\source\repos\Ecommerce1\Ecommerce1\bin\Debug\netcoreapp2.1\Ecommerce1.dll
+C:\Users\1000070994\source\repos\Ecommerce1\Ecommerce1\obj\Debug\netcoreapp2.1\Ecommerce1.csprojAssemblyReference.cache
+C:\Users\1000070994\source\repos\Ecommerce1\Ecommerce1\obj\Debug\netcoreapp2.1\Ecommerce1.csproj.CoreCompileInputs.cache
+C:\Users\1000070994\source\repos\Ecommerce1\Ecommerce1\obj\Debug\netcoreapp2.1\Ecommerce1.RazorAssemblyInfo.cache
+C:\Users\1000070994\source\repos\Ecommerce1\Ecommerce1\obj\Debug\netcoreapp2.1\Ecommerce1.RazorAssemblyInfo.cs
+C:\Users\1000070994\source\repos\Ecommerce1\Ecommerce1\obj\Debug\netcoreapp2.1\Ecommerce1.AssemblyInfoInputs.cache
+C:\Users\1000070994\source\repos\Ecommerce1\Ecommerce1\obj\Debug\netcoreapp2.1\Ecommerce1.AssemblyInfo.cs
+C:\Users\1000070994\source\repos\Ecommerce1\Ecommerce1\obj\Debug\netcoreapp2.1\Ecommerce1.RazorTargetAssemblyInfo.cache
+C:\Users\1000070994\source\repos\Ecommerce1\Ecommerce1\bin\Debug\netcoreapp2.1\Ecommerce1.pdb
+C:\Users\1000070994\source\repos\Ecommerce1\Ecommerce1\obj\Debug\netcoreapp2.1\Ecommerce1.dll
+C:\Users\1000070994\source\repos\Ecommerce1\Ecommerce1\obj\Debug\netcoreapp2.1\Ecommerce1.pdb
